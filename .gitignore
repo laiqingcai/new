@@ -1,0 +1,7 @@
+*.o
+CMakeFiles/
+*.cmake
+CMakeCache.txt
+helloworld
+server
+client
