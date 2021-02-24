@@ -3,7 +3,8 @@
 int main()
 {
 	printf("change add one line.");
-	printf("change");
+	printf("make some changes");
+	
 	printf("add two line.");
 	printf("Hello Git!");
 }
